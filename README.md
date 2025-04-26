@@ -1,12 +1,12 @@
-# Capo-Flash-Bot
-Capo Flash bot is a Multi-Chain Relay/Builder
+# Capo-Bot
+Capo bot is a Multi-Chain Relay/Builder
 
 --- We are in development phase Right now please wait for a launch 🚀🚀🚀......
 
 
 # 🚀 Capo Flash bot — Private Ethereum MEV Relay/Builder
 
-Welcome to **Capo Flash bot**, a new private, fast, and reliable MEV relay for Ethereum mainnet searchers and builders.
+Welcome to **Capo bot**, a new private, fast, and reliable MEV relay for Ethereum mainnet searchers and builders.
 
 ## 🌟 Key Features
 
